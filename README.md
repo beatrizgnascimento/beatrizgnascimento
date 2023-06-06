@@ -1,5 +1,8 @@
 living just to keep going, going just to be sane.
 
+![image](https://github.com/beatrizgnascimento/beatrizgnascimento/assets/131934165/14f4d755-a529-44d8-93a2-e7ca87a67f38)
+
+
 
 <!--
 **beatrizgnascimento/beatrizgnascimento** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
