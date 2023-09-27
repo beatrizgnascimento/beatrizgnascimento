@@ -5,15 +5,15 @@ sweat turns to blood.
 
 
 
-# Hi there 👋
+# Hi there ⸜(｡˃ ᵕ ˂ )⸝♡
 
  My name is Beatriz and I'm a student of Information Systems
 
 **About me**
   
-- 📌 My current area of interest is cybersecurity.
-- 📚 I'm currently focused on learning C and Python.
-- 📎 Fun fact: I like animes, kdramas and gym💪
+- ✿ My current area of interest is cybersecurity.
+- ☆ I'm currently focused on learning C and Python.
+- ♡ Fun fact: I like animes, kdramas and gym ᕦ(ò_ó)ᕤ
 
 
 ##
