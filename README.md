@@ -6,7 +6,7 @@
 **About me**
   
 - ✿ My current area of interest is Cybersecurity.
-- ☆ I'm currently focused on learning C and Python.
+- ☆ I'm currently focused on learning C, Python and PHP.
 - ♡ Fun fact: I like animes, kdramas and gym ᕦ(ò_ó)ᕤ
 
 
