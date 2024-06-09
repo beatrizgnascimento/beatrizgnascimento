@@ -5,9 +5,9 @@
 
 **About me**
   
-- ✿ My current area of interest is QA and Data.
-- ☆ I'm currently focused on learning Typescript, React, Cypress, Detox and Python.
-- ♡ Fun fact: I like animes, kdramas and gym ᕦ(ò_ó)ᕤ
+ ✿ My current area of interest is QA and Data.
+ ☆ I'm currently focused on learning Python and React Native.
+ ♡ Fun fact: I like animes, kdramas and gym ᕦ(ò_ó)ᕤ
 
 
 ##
