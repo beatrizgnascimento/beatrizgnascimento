@@ -7,7 +7,7 @@
   
 - ✿ My current area of interest is QA and Data.
 - ☆ I'm currently focused on learning Python and React Native.
-- ♡ Fun fact: I like animes, kdramas and gym ᕦ(ò_ó)ᕤ
+- ♡ Fun fact: I like animes, kdramas and calisthenics ᕦ(ò_ó)ᕤ
 
 
 ##
