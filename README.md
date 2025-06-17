@@ -1,4 +1,10 @@
-##
+## Data Analyst & Business Intelligence
+
+- Turning messy data into sharp insights -> one query at a time.  
+- I go beyond the dashboard: behavior, metrics, patterns -> if it moves, I’ll analyze it.  
+- SQL, Python & Amplitude → from raw data to narratives that make decisions easier (and smarter).
+
+🌎 Based in Brazil • Fluent in numbers, charts, and human curiosity.
 <div align="center">
 
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizgnascimento&layout=compact&langs_count=7&theme=dracula"/>
