@@ -12,7 +12,3 @@ Based in Brazil • Fluent in numbers, charts, and human curiosity.
 
 ![kyubey (2)](https://github.com/beatrizgnascimento/beatrizgnascimento/assets/131934165/56b4d88e-82b9-4e01-92ec-577911db5ae4)
 </div>
-
-<div align="center">
-  And remember, sweat turns to blood.
-</div>
