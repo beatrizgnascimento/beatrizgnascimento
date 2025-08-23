@@ -1,8 +1,8 @@
-## Data Analyst & Business Intelligence
+## Data Analyst 
 
 - Turning messy data into sharp insights → one query at a time.  
 - I go beyond the dashboard: behavior, metrics, patterns → if it moves, I’ll analyze it.  
-- SQL, Python & Amplitude → from raw data to narratives that make decisions easier (and smarter).
+- SQL & Python & → from raw data to narratives that make decisions easier (and smarter).
 
 Based in Brazil • Fluent in numbers, charts, and human curiosity.
 <div align="center">
